@@ -1,9 +1,14 @@
 import "./App.css";
+import Navbar from "./components/navbar/navbar";
 
 function App() {
   return (
     <>
-      <h1 className="text-5xl  font-bold text-pink">Hello World</h1>
+     {/* Navbar section */}
+     <Navbar/>
+     {/* ! Navbar section */}
+
+
     </>
   );
 }
