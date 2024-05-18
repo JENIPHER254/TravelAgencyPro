@@ -1,2 +1,2 @@
-# TravelAgencyPro---React.js-Tailwind-CSS
+# TravelAgencyPro
 Responsive TravelAgency website with React.js &amp; Tailwind CSS
