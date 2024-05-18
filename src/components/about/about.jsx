@@ -7,7 +7,7 @@ const About = () => {
       <div className="md:px-20 p-4 max-w-s mx-auto">
         <div className=" items-center text-center ">
             <h2 className="mt-8 mb-2 text-primary text-5xl font-bold">About Us...</h2>
-            <p className="text-gray-500 text-xl mb-8 font-bold">Learn more about TAP (TravelAgencyPro)...</p>
+            <p className="text-gray-500 text-2xl font-bold">Learn more about TAP(TravelAgencyPro)</p>
         </div>
         <div className="flex flex-col md:flex-row items-center gap-8">
           <div className="md:w-1/2">

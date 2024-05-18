@@ -3,6 +3,7 @@ import Navbar from "./components/navbar/navbar";
 import Home from "./components/home/home";
 import Features from "./components/features/features";
 import About from "./components/about/about";
+import Pricing from "./components/pricing/pricing";
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
       {/* About section */}
       <About />
       {/* ! About section */}
+       {/* Pricing section */}
+       <Pricing />
+      {/* ! Pricing section */}
     </>
   );
 }
