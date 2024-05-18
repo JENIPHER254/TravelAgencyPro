@@ -19,7 +19,7 @@ const Navbar = () => {
   ];
   return (
     <>
-      <nav className="bg-white max-w-screen-2x1 text-primary mx-auto p-4 fixed top-0 left-0 right-0">
+      <nav className="bg-white max-w-screen-2x1 text-primary mx-auto  fixed top-0 left-0 right-0">
         <div className="container flex mx-auto justify-between items-center text-lg font-medium">
           <div className="flex items-center space-x-14 ">
             <a
@@ -29,7 +29,7 @@ const Navbar = () => {
               <img
                 src={logo1}
                 alt=""
-                width={150}
+                width={90}
                 className=" items-center inline-block"
               />
               <span>TAP</span>
@@ -45,10 +45,10 @@ const Navbar = () => {
           </div>
           {/* BOOK NOW AND SIGN UP BUTTONS */}
           <div className="space-x-12 items-center lg:flex hidden">
-            <a href="/" className="hover:text-secondary items-center">
+            <a href="/" className="hover:text-secondary items-center ">
               Book Now
             </a>
-            <button className="bg-secondary py-2 px-4 rounded text-bold hover:text-white hover:bg-indigo-500 duration-300">
+            <button className="bg-secondary text-white py-2 px-8 rounded text-bold hover:text-gey-500 hover:bg-indigo-500 duration-300">
               SignUp
             </button>
           </div>
