@@ -4,6 +4,7 @@ import Home from "./components/home/home";
 import Features from "./components/features/features";
 import About from "./components/about/about";
 import Pricing from "./components/pricing/pricing";
+import Footer from "./components/footer/footer";
 
 function App() {
   return (
@@ -21,9 +22,12 @@ function App() {
       {/* About section */}
       <About />
       {/* ! About section */}
-       {/* Pricing section */}
-       <Pricing />
+      {/* Pricing section */}
+      <Pricing />
       {/* ! Pricing section */}
+      {/* Footer section */}
+      <Footer />
+      {/* ! Footer section */}
     </>
   );
 }
