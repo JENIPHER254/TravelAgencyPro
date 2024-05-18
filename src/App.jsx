@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./components/navbar/navbar";
 import Home from "./components/home/home";
 import Features from "./components/features/features";
+import About from "./components/about/about";
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
       {/* Home section */}
       <Features />
       {/* ! Home section */}
+      {/* About section */}
+      <About />
+      {/* ! About section */}
     </>
   );
 }
