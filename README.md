@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 
 | Section 3                                                               | Section 4                                                               |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| ![plot](./src/assets/design/img6.png)                                   | ![plot](./src/assets/design/img6.png)                                   |
+| ![plot](./src/assets/design/img4.png)                                   | ![plot](./src/assets/design/img5.png)                                   |
 | Section 5                                                               |                                                                         |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | ![plot](./src/assets/design/img6.png)                                   | ![plot]()                                                               |
