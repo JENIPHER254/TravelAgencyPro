@@ -19,7 +19,7 @@ const Navbar = () => {
   ];
   return (
     <>
-      <nav className="bg-white max-w-screen-2x1 text-primary mx-auto  fixed top-0 left-0 right-0">
+      <nav className="bg-white max-w-screen-2x1 text-primary mx-auto border-b fixed top-0 left-0 right-0">
         <div className="container flex mx-auto justify-between items-center text-lg font-medium">
           <div className="flex items-center space-x-14 ">
             <a
